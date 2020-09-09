@@ -8,6 +8,7 @@ function App() {
     <div>
        <Layout>
           <BurgerBuilder/>
+          {/*Order button */}
        </Layout>
     </div>
   );
